@@ -2,6 +2,7 @@
 .idea
 .environment
 /build/
+application.yml
 
 # Ignore Gradle GUI config
 gradle-app.setting
