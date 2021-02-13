@@ -50,7 +50,7 @@ public class OrderItemServiceTest {
                 Member.builder().name("박종훈").city("서울시 금천구").street("금하로 816").zipcode("1234").build());
         Item macbook = Item.builder().name("맥북").price(3000000).stackQuantity(10).build();
         Item gram = Item.builder().name("LG gram").price(1800000).stackQuantity(20).build();
-        Item monitor = Item.builder().name("맥북").price(300000).stackQuantity(15).build();
+        Item monitor = Item.builder().name("모니터").price(300000).stackQuantity(15).build();
         itemService.itemRepository.save(macbook);
         itemService.itemRepository.save(gram);
         itemService.itemRepository.save(monitor);

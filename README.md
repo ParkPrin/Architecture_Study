@@ -2,6 +2,12 @@
 
 ## 환경구성
 
+### 연습 모델링 설계도
+
+![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbXSdTF%2FbtqWWtYW8Ee%2FdQqEkjWJJmzqfZykLvaZaK%2Ftfile.svg)
+
+https://parkprin.tistory.com/manage/posts
+
 ### Database
 
 #### Docker 인스턴스 생성
