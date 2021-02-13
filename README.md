@@ -6,7 +6,7 @@
 
 ![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbXSdTF%2FbtqWWtYW8Ee%2FdQqEkjWJJmzqfZykLvaZaK%2Ftfile.svg)
 
-https://parkprin.tistory.com/manage/posts
+https://parkprin.tistory.com/15
 
 ### Database
 
